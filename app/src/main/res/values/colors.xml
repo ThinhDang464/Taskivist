@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#fffc00</color>
+    <color name="blue">#0000FF</color>
+    <color name = "lightgreen">#90EE90</color>
+    <color name = "softgreen"> #E8F5E9</color>
+    <color name = "lightgray"> #F5F5F5</color>
+    <color name="high_priority">#FF0000</color> <!-- Red for high priority -->
+    <color name="medium_priority">#FFA500</color> <!-- Orange for medium priority -->
+    <color name="low_priority">#008000</color> <!-- Green for low priority -->
+</resources>
