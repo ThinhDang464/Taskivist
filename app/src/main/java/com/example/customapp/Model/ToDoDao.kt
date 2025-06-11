@@ -8,7 +8,7 @@ import androidx.room.Update
 import com.example.customapp.Model.ToDoItem
 import kotlinx.coroutines.flow.Flow
 
-//DAO define methods that access/interact the database
+//DAO define methods that access/interact the database, To be explained ANDROID studio
 
 @Dao //marks the interface as DAO for room
 interface ToDoDao {
